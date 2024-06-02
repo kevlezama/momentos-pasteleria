@@ -1,0 +1,11 @@
+
+# frontend dependencies
+/frontend/momentos-pasteleria/node_modules
+/frontend/momentos-pasteleria/package-lock.json
+
+# frontend config files
+/frontend/momentos-pasteleria/jsconfig.json
+
+
+#backend dependencies
+/backend/.venv
