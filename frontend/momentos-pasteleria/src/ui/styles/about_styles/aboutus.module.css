@@ -1,0 +1,33 @@
+.section-container{
+
+    background-color: white;
+    display: flex;
+    flex-direction: block;
+    width: 100%;
+    height: 700px;
+    
+}
+
+
+.section-container-first-row{
+
+    display: flex;
+    flex-direction: row;
+    position: relative;
+    border: 2px solid black;
+    height: 150px;
+   
+}
+
+.section-container-first-row-one{
+
+    border: 2px solid black;
+    width: 1000px;
+
+}
+
+.section-container-first-row-two a{
+
+    text-align: center;
+
+}
