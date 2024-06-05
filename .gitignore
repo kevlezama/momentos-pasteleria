@@ -7,5 +7,8 @@
 /frontend/momentos-pasteleria/jsconfig.json
 
 
+/frontend/momentos-pasteleria/.next
+
 #backend dependencies
 /backend/.venv
+__pycache__
