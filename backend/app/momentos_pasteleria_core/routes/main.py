@@ -1,5 +1,5 @@
 from flask import Blueprint, jsonify
-
+import logging
 
 main_bp = Blueprint('main', __name__)
 
@@ -13,6 +13,6 @@ def home():
         'last_name':'lezama',
         'user_tier':'Tier 1'
     }
-
+    logging.info("this is a test")
     return jsonify(test)
 

@@ -5,10 +5,14 @@
 
 # frontend config files
 /frontend/momentos-pasteleria/jsconfig.json
-
-
 /frontend/momentos-pasteleria/.next
 
 #backend dependencies
 /backend/.venv
 __pycache__
+
+#other
+backend_logic.txt
+/backend/.notes.txt
+/backend/app/migrations
+/backend/app/mp.log
